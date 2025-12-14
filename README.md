@@ -57,31 +57,11 @@
 └── uni.scss          # 全局样式
 ```
 
-## 安装和运行
-
 ### 环境要求
 
 - HBuilderX
 - Node.js
 - 微信开发者工具
-
-### 安装步骤
-
-1. 克隆项目到本地
-   ```bash
-   git clone <仓库地址>
-   ```
-
-2. 使用HBuilderX打开项目
-
-3. 安装依赖
-   ```bash
-   npm install
-   ```
-
-4. 运行项目
-   - 选择微信小程序运行环境
-   - 使用微信开发者工具导入项目
 
 ## 开发工具
 
@@ -99,5 +79,17 @@
 - 数据请求和处理
 - 组件封装和复用
 
+## 页面截图
+<img width="370" height="796" alt="516b44de-0b56-43ec-9a2d-1600ba80d9c0" src="https://github.com/user-attachments/assets/a1613eac-7790-4f12-9352-eb9308552d93" />
 
-MIT License
+## 医院详情
+<img width="370" height="790" alt="452e9c2f-3ce3-4672-a67f-0c2340e5cb19" src="https://github.com/user-attachments/assets/2ceb14f7-1302-4565-9970-539d1e4acb14" />
+
+## 服务预约
+<img width="370" height="789" alt="1e4adc4b-9f3d-4e65-bdac-9a865cecc6b2" src="https://github.com/user-attachments/assets/8cf7c1c6-da2d-4500-8b9e-71647b100ad7" />
+<img width="370" height="786" alt="e9b67043-d0f9-49eb-9be8-97649fcecea1" src="https://github.com/user-attachments/assets/8e975d28-e535-485d-9e67-182724bafea2" />
+
+## 用户中心
+<img width="360" height="788" alt="a9052eee-6e60-4f37-bee8-1167a4208325" src="https://github.com/user-attachments/assets/96903d51-177d-4543-a667-f37142563386" />
+
+
